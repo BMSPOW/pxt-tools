@@ -1,7 +1,7 @@
 {
     "name": "tools",
     "version": "0.0.1",
-    "description": "test",
+    "description": "test2",
     "license": "MIT",
     "dependencies": {
         "core": "*"
